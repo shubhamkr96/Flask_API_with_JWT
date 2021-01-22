@@ -1,2 +1,2 @@
-# Flask_API_with_JWT
+# Flask-Restful API with JWT
  
